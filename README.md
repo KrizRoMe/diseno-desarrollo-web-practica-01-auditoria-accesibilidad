@@ -8,7 +8,7 @@ y documentarlos mediante GitHub Issues.
 ## Sitios a auditar
 
 - https://TU-AULATECH.vercel.app
-- https://gob.pe
+- https://inaccessible.andrewwestley.co.uk/
 
 ## Entrega
 
