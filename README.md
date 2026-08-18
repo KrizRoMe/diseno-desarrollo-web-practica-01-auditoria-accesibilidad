@@ -5,18 +5,19 @@
 Identificar problemas de accesibilidad utilizando axe DevTools
 y documentarlos mediante GitHub Issues.
 
-## Sitio a auditar
+## Sitios a auditar
 
-https://TU-AULATECH.vercel.app
+- https://TU-AULATECH.vercel.app
+- https://gob.pe
 
 ## Entrega
 
 Cada pareja debe:
 
-- Identificar 3 problemas de accesibilidad.
+- Identificar 3 problemas de accesibilidad en cada sitio (6 en total).
 - Analizar su impacto.
 - Proponer una solución.
-- Crear al menos 1 GitHub Issue.
+- Crear al menos 1 GitHub Issue por sitio (2 en total).
 
 ## Formato de Issue
 
